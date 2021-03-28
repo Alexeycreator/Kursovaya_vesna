@@ -1,0 +1,6 @@
+.mainContent {
+    background-color: burlywood;
+    text-align: left;
+    padding: 150px;
+    grid-area: m;
+}

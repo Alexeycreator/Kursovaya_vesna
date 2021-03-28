@@ -1,0 +1,23 @@
+.menu {
+    grid-area: n;
+    background-color: aqua;
+    text-align: left;
+    padding: 20px;
+  }
+  
+  .item a {
+    color: purple;
+    text-decoration: none;
+  }
+  
+  .item a.activeLink {
+    color: red;
+  }
+  
+  .indentCustomization{
+    margin-top: 10px;
+  }
+  
+  .indentFriendsBlock {
+    margin-top: 20px;
+  }

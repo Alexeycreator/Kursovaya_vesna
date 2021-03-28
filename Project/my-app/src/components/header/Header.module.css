@@ -1,0 +1,13 @@
+.header{
+    grid-area: h;
+    background-color: red;
+}
+
+.header img{
+    text-align: left;
+    width: 77px;
+}
+
+.TxtCenter {
+    text-align: center;
+}

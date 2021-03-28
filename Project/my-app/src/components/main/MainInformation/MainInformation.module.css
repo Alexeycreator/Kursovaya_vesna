@@ -1,0 +1,6 @@
+.mainContent {
+    background-color: blueviolet;
+    text-align: left;
+    padding: 50px;
+    grid-area: i;
+}
