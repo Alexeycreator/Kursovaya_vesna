@@ -10,3 +10,8 @@
   width: 1500px;
   margin: auto;
 }
+.AppMain {
+  grid-area: m;
+  background-color: orange;
+}
+
