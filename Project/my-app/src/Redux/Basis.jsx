@@ -21,4 +21,4 @@ export let updateText = (newSobitie) => {
     redrowPage(basis);
 }
 
-export default basis; */
+export default basis;  */

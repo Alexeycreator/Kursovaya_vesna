@@ -23,11 +23,12 @@ const Main = ({ startDay,today, nextMath, todayMath, previeMath }) => {
     <div className={s.mainContent}>
       <ShadowWrapper>
         <HeaderCalendar />
-        <MonitorCalendar today={today} 
+        <MonitorCalendar 
+        today={today} 
         previeMath={previeMath} 
         todayMath={todayMath}
         nextMath={nextMath} />
-        <Calendar startDay={startDay} />
+        <Calendar startDay={startDay} today={today}/>
       </ShadowWrapper>
     </div>
   );

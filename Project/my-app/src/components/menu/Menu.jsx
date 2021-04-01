@@ -39,10 +39,11 @@ const Menu = (props) => {
         </NavLink>  
       </div>
       
-      <textarea onChange={onChangeTextNew} ref={newTextElement} value={props.newTextElement}></textarea>
+      <textarea></textarea>
       <button>Добавить событие</button>
     </nav>
   );
 };
 
 export default Menu;
+// onChange={onChangeTextNew} ref={newTextElement} value={props.newTextElement}

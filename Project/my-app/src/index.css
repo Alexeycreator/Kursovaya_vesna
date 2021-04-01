@@ -5,10 +5,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: chartreuse;
+  background-image: url(https://st2.depositphotos.com/3489481/5208/i/600/depositphotos_52086275-stock-photo-book-of-life.jpg);
+  background-size: 100%;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
